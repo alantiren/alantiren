@@ -9,8 +9,7 @@ Welcome to my GitHub profile. I'm a passionate full-stack engineer from Kenya. F
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alantiren&layout=compact&hide_border=true)
 
 ## Repositories
-
-...
+🚀 Explore my GitHub: [alantiren](https://github.com/alantiren)
 
 ## Connect with Me
 
