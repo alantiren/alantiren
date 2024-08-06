@@ -18,10 +18,7 @@ Welcome to my GitHub profile. I'm a passionate full-stack engineer from Kenya. F
 
 ## Support Me
 
-If you find my work helpful or you just want to show your appreciation, you can support me by:
-
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/alantiren)
-- 💸 [PayPal](https://www.paypal.com/paypalme/alantiren76)
+If you find my work helpful or you just want to show your appreciation.
 
 Your support is greatly appreciated! Thank you! 😊
 
